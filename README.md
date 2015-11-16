@@ -23,3 +23,10 @@ Simple project using a NodeMcu board to read Dexcom G4 values via Wixel.
 ![](https://raw.githubusercontent.com/skjelland/wdrip/master/img/IMAG2965.jpg)
 ![](https://raw.githubusercontent.com/skjelland/wdrip/master/img/IMAG2966.jpg)
 
+### Procedure
+
+### Wixel programming
+
+### Arduino programming
+
+### Calibration
